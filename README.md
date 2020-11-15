@@ -1,0 +1,2 @@
+# resolusi
+Resolusi akhir tahun
