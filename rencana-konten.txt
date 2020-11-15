@@ -1,1 +1,4 @@
 Rencana konten terbaru
+- Javascript
+- Python
+- Zuma
