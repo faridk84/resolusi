@@ -2,3 +2,4 @@ Rencana konten terbaru
 - Javascript
 - Python
 - Zuma
+- Fundamental Data Structure
